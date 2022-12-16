@@ -24,3 +24,7 @@ Klawiatura pod Windowsa, która pozwala pisać komuś przyzwyczajonemu do polski
 Układ jest inspirowany układem kanadyjskim, ale jest tam dużo różnic. W skrócie, polskie znaki wpisujemy jak wcześniej (z altem). Francuskie (oraz esperanto) znaki diakrytyczne wpisywane są za pomocą martwych klawiszy <kbd>[</kbd>, <kbd>]</kbd>, <kbd>\ </kbd>.
 
 Szczegółowy opis układu [znajduje się w katalogu pl_fr](pl_fr/README.md). Pobrać go można z [sekcji releases](https://github.com/matrach/kb_layouts/releases).
+
+## Licencja / License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencja Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Ten utwór jest dostępny na <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencji Creative Commons Uznanie autorstwa 4.0 Międzynarodowe</a>.
