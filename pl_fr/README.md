@@ -4,13 +4,13 @@
 
 Jedyne różnice względem polskiego układu to umieszczenie martwich klawiszy w miejscu <kbd>[</kbd>, <kbd>]</kbd> oraz <kbd>\ </kbd>. Martwe klawisze polegają na wciśnięciu najpierw takiego klawisza (kombinatora) a następnie literki, która ma być zmodyfikowana.
 
-- <kbd>]</kbd> - dodaje [cyrkumfleks](https://pl.wikipedia.org/wiki/Akcent_przeci%C4%85g%C5%82y) ("daszek", "akcent przeciągły") – np. <kbd>]</kbd> <kbd>a</kbd> jest zamieniane na `â` (proszę zrwócić uwagę na brak `+` - guziki należy wciskać kolejno)
-- <kbd>[</kbd> - dodaje [grawis](https://pl.wikipedia.org/wiki/Grawis) - np. <kbd>[</kdb><kbd>i</kbd> daje `ì`
-
-- <kbd>\ </kbd> - dodaje [diarezę](https://pl.wikipedia.org/wiki/Diereza_(pisownia)) (umlaut) oraz tworzy pozostałe znaki francuskie - np. <kbd>[</kbd><kbd>i</kbd> daje `ï` - 
-  - <kbd>[</kbd><kbd>c</kbd> daje `ç`
-  - <kbd>[</kbd><kbd>a</kbd> daje `æ`
-  - <kbd>[</kbd><kbd>o</kbd> daje `œ`
+- <kbd>[</kbd> - dodaje [grawis](https://pl.wikipedia.org/wiki/Grawis) - np. <kbd>[</kbd><kbd>i</kbd> daje `ì` (proszę zrwócić uwagę na brak `+` - guziki należy wciskać kolejno)
+- <kbd>]</kbd> - dodaje [cyrkumfleks](https://pl.wikipedia.org/wiki/Akcent_przeci%C4%85g%C5%82y) ("daszek", "akcent przeciągły") – np. <kbd>]</kbd> <kbd>a</kbd> jest zamieniane na `â`. Tutaj podpadają również wszystkie znaki w esperanto. 
+- <kbd>\ </kbd> - dodaje [diarezę](https://pl.wikipedia.org/wiki/Diereza_(pisownia)) ("dwukropek") oraz tworzy pozostałe znaki francuskie. Np.:
+  - <kbd>\ </kbd><kbd>i</kbd> daje `ï` 
+  - <kbd>\ </kbd><kbd>c</kbd> daje `ç`
+  - <kbd>\ </kbd><kbd>a</kbd> daje `æ`
+  - <kbd>\ </kbd><kbd>o</kbd> daje `œ`
 
 
 ## Układ z <kbd>Shift</kbd>
