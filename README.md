@@ -12,6 +12,7 @@ The remaining of this document is in Polish, since  the layouts are designed to 
 # ------ Polish part ---------
 
 ## Klawiatura polsko-francuska (+esperanto)
+Współautorstwo: ASz
 
 Klawiatura pod Windowsa, która pozwala pisać komuś przyzwyczajonemu do polskiego układu klawiatury w:
 
